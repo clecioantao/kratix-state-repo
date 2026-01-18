@@ -1,7 +1,7 @@
 apiVersion: "acid.zalan.do/v1"
 kind: postgresql
 metadata:
-  name: acme-org-team-a-acme-org-team-a-example-postgresql-postgresql
+  name: acme-pg
   namespace: default
 spec:
   teamId: "acme-org-team-a"
